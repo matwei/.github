@@ -1,2 +1,2 @@
 # Perl Modules
-Find my Perl modules at [matwei-perl](/matwei-perl).
+You can find my Perl modules at [matwei-perl](https://github.com/matwei-perl).
